@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596692664369",
+    "project_id": "fir-auth-bloc-demo",
+    "storage_bucket": "fir-auth-bloc-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596692664369:android:123a4ba454e1503809d510",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_bloc_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596692664369-u053c553vcrtim711cv7i2lsc5b0dirl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJftF-m2OLOt3Y0G5p3PXPbgu6WrMOrMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596692664369-u053c553vcrtim711cv7i2lsc5b0dirl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
